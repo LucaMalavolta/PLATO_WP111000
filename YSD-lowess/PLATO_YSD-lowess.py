@@ -1,4 +1,4 @@
-#Adapted frpom https://github.com/mbattley/YSD
+#Adapted from https://github.com/mbattley/YSD
 
 import numpy as np
 import matplotlib.pyplot as plt
